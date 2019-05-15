@@ -86,7 +86,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(81, 57);
             this.button2.TabIndex = 1;
-            this.button2.Text = "Panel";
+            this.button2.Text = "Панел";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -319,7 +319,7 @@
             // changeLabelToolStripMenuItem
             // 
             this.changeLabelToolStripMenuItem.Name = "changeLabelToolStripMenuItem";
-            this.changeLabelToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.changeLabelToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
             this.changeLabelToolStripMenuItem.Text = "Изменить";
             this.changeLabelToolStripMenuItem.Click += new System.EventHandler(this.changeLabelToolStripMenuItem_Click);
             // 
